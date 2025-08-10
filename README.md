@@ -31,5 +31,4 @@ The workflow is dataset-agnostic — you can replace the input data with a real 
 
 ---
 
-## Project Structure
 
